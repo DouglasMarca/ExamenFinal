@@ -8,5 +8,6 @@ namespace ProyectoBackendDouglas.ModelsFlight
         public DateTime DateofFlight { get; set; }
         public int LicenseNumber { get; set; }
         public int IdPlane { get; set; }
+        public int IdFlight { get; set; }
     }
 }
